@@ -2,6 +2,9 @@
 
 Basit bir acik arttirma uygulamasi.
 
+- Onunuze cikan menuden istediginiz kadar teklif ekleyebilirsiniz.
+- İstediginiz zaman cikip acik arttirmayi kazanani gorebilirsiniz.
+
 # Ekran Goruntuleri
 
 ---
